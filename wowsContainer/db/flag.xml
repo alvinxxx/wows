@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<status>ok</status>
+	<meta>
+		<count>33</count>
+	</meta>
+	<data>
+		<3856166704>
+			<description>Decreases the firing accuracy of the enemy, reduces ship detectability and increases the amount of XP and credits earned by the ship and her Commander.</description>
+			<price_gold>3000</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+				<credits_coef>1.1</credits_coef>
+				<xp_coef>1.5</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/permoflage/PGEP418_Prinz_Eugen.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>permoflage</type>
+			<exterior_id>3856166704</exterior_id>
+			<name>Adler</name>
+		</3856166704>
+		<3958927344>
+			<description>Decreases the firing accuracy of the enemy, reduces ship detectability and increases the amount of XP earned by the ship and her Commander.</description>
+			<price_gold>2000</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<repair_cost_coef>0.7</repair_cost_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+				<xp_coef>2</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/permoflage/PAEP320_Alabama_ST.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>permoflage</type>
+			<exterior_id>3958927344</exterior_id>
+			<name>Octopus</name>
+		</3958927344>
+		<3959975920>
+			<description>Decreases the firing accuracy of the enemy, reduces ship detectability and increases the amount of XP earned by the ship and her Commander.</description>
+			<price_gold>0</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+				<xp_coef>1.5</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/permoflage/PAEP319_Alabama.png</small>
+			</image>
+			<price_credit>1</price_credit>
+			<type>permoflage</type>
+			<exterior_id>3959975920</exterior_id>
+			<name>BB-60</name>
+		</3959975920>
+		<4148719536>
+			<description>Decreases the firing accuracy of the enemy, reduces ship detectability and increases the amount of XP earned by the ship and her Commander.</description>
+			<price_gold>0</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+				<xp_coef>2</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/permoflage/PCEP139_Permo_Prem_9_lvl.png</small>
+			</image>
+			<price_credit>1</price_credit>
+			<type>permoflage</type>
+			<exterior_id>4148719536</exterior_id>
+			<name>Type 10</name>
+		</4148719536>
+		<4159205296>
+			<description>Decreases the firing accuracy of the enemy, reduces ship detectability and increases the amount of XP earned by the ship and her Commander.</description>
+			<price_gold>4000</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<repair_cost_coef>0.8</repair_cost_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+				<xp_coef>2</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/permoflage/PCEP129_Permo_Upgr_9_lvl.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>permoflage</type>
+			<exterior_id>4159205296</exterior_id>
+			<name>Type 29</name>
+		</4159205296>
+		<4160253872>
+			<description>Decreases the firing accuracy of the enemy, reduces ship detectability and increases the amount of XP earned by the ship and her Commander.</description>
+			<price_gold>3000</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<repair_cost_coef>0.9</repair_cost_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+				<xp_coef>1.5</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/permoflage/PCEP128_Permo_Upgr_8_lvl.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>permoflage</type>
+			<exterior_id>4160253872</exterior_id>
+			<name>Type 28</name>
+		</4160253872>
+		<4168642480>
+			<description>Decreases the firing accuracy of the enemy, also reduces ship detectability and costs per battle.</description>
+			<price_gold>5000</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<repair_cost_coef>0.5</repair_cost_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+				<credits_coef>1.2</credits_coef>
+				<xp_coef>2</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/permoflage/PCEP120_Permo_Upgr_10_lvl.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>permoflage</type>
+			<exterior_id>4168642480</exterior_id>
+			<name>Type 20</name>
+		</4168642480>
+		<4169691056>
+			<description>Decreases the firing accuracy of the enemy, reduces ship detectability and increases the amount of XP earned by the ship and her Commander.</description>
+			<price_gold>4000</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<repair_cost_coef>0.8</repair_cost_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+				<xp_coef>2</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/permoflage/PCEP119_Permo_Upgr_9_lvl.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>permoflage</type>
+			<exterior_id>4169691056</exterior_id>
+			<name>Type 19</name>
+		</4169691056>
+		<4170739632>
+			<description>Decreases the firing accuracy of the enemy, reduces ship detectability and increases the amount of XP earned by the ship and her Commander.</description>
+			<price_gold>3000</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<repair_cost_coef>0.9</repair_cost_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+				<xp_coef>1.5</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/permoflage/PCEP118_Permo_Upgr_8_lvl.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>permoflage</type>
+			<exterior_id>4170739632</exterior_id>
+			<name>Type 18</name>
+		</4170739632>
+		<4171788208>
+			<description>Decreases the firing accuracy of the enemy, reduces ship detectability and increases the amount of XP earned by the ship and her Commander.</description>
+			<price_gold>2000</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<repair_cost_coef>0.95</repair_cost_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+				<xp_coef>1.5</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/permoflage/PCEP117_Permo_Upgr_7_lvl.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>permoflage</type>
+			<exterior_id>4171788208</exterior_id>
+			<name>Type 17</name>
+		</4171788208>
+		<4172836784>
+			<description>Decreases the firing accuracy of the enemy, reduces ship detectability and increases the amount of XP earned by the ship and her Commander.</description>
+			<price_gold>1000</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+				<xp_coef>1.3</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/permoflage/PCEP116_Permo_Upgr_6_lvl.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>permoflage</type>
+			<exterior_id>4172836784</exterior_id>
+			<name>Type 16</name>
+		</4172836784>
+		<4173885360>
+			<description>Decreases the firing accuracy of the enemy, reduces ship detectability and increases the amount of XP earned by the ship and her Commander.</description>
+			<price_gold>1000</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+				<xp_coef>1.3</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/permoflage/PCEP115_Permo_Upgr_5_lvl.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>permoflage</type>
+			<exterior_id>4173885360</exterior_id>
+			<name>Type 15</name>
+		</4173885360>
+		<4274876336>
+			<description>Leak is dangerous.</description>
+			<price_gold>6</price_gold>
+			<ttc_coef>
+				<flood_chance_coef>1.15</flood_chance_coef>
+				<ammo_detonation_chance_coef>1.05</ammo_detonation_chance_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF019_JW1_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4274876336</exterior_id>
+			<name>Juliet Whiskey Unaone</name>
+		</4274876336>
+		<4275924912>
+			<description>Fire is gaining.</description>
+			<price_gold>12</price_gold>
+			<ttc_coef>
+				<ammo_detonation_chance_coef>1.05</ammo_detonation_chance_coef>
+				<burn_chance_big_coef>1.01</burn_chance_big_coef>
+				<burn_chance_small_coef>1</burn_chance_small_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF018_IX_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4275924912</exterior_id>
+			<name>India X-Ray</name>
+		</4275924912>
+		<4276973488>
+			<description>Hurricane is approaching. You should take appropriate precautions.</description>
+			<price_gold>16</price_gold>
+			<ttc_coef>
+				<flood_chance_coef>1.04</flood_chance_coef>
+				<burn_chance_big_coef>1.01</burn_chance_big_coef>
+				<burn_chance_small_coef>1</burn_chance_small_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF017_VL_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4276973488</exterior_id>
+			<name>Victor Lima</name>
+		</4276973488>
+		<4278022064>
+			<description>You should proceed with great caution; hostile aircraft sighted.</description>
+			<price_gold>8</price_gold>
+			<ttc_coef>
+				<anti_aircraft_defence_coef>1.1</anti_aircraft_defence_coef>
+				<aircraft_passive_defence_coef>1.1</aircraft_passive_defence_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF016_NE7_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4278022064</exterior_id>
+			<name>November Echo Setteseven</name>
+		</4278022064>
+		<4279070640>
+			<description>Exercise has been completed.</description>
+			<price_gold>6</price_gold>
+			<ttc_coef />
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF015_ZH_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4279070640</exterior_id>
+			<name>Zulu Hotel</name>
+		</4279070640>
+		<4280119216>
+			<description>You are running into danger.</description>
+			<price_gold>8</price_gold>
+			<ttc_coef>
+				<consumables_reload_time_coef>0.95</consumables_reload_time_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF014_NF_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4280119216</exterior_id>
+			<name>November Foxtrot</name>
+		</4280119216>
+		<4281167792>
+			<description>Keep well clear of me.</description>
+			<price_gold>8</price_gold>
+			<ttc_coef />
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF013_PP_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4281167792</exterior_id>
+			<name>Papa Papa</name>
+		</4281167792>
+		<4282216368>
+			<description>It is dangerous to approach close to my vessel.</description>
+			<price_gold>4</price_gold>
+			<ttc_coef>
+				<distance_coef>1.05</distance_coef>
+				<reload_time_coef>0.95</reload_time_coef>
+				<accuracy_coef>0.95</accuracy_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF012_MY6_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4282216368</exterior_id>
+			<name>Mike Yankee Soxisix</name>
+		</4282216368>
+		<4283264944>
+			<description>I have not received any damage.</description>
+			<price_gold>4</price_gold>
+			<ttc_coef>
+				<repair_cost_coef>0.9</repair_cost_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF011_IB3_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4283264944</exterior_id>
+			<name>India Bravo Terrathree</name>
+		</4283264944>
+		<4284313520>
+			<description>There is no danger of explosion.</description>
+			<price_gold>8</price_gold>
+			<ttc_coef>
+				<ammo_detonation_chance_coef>0</ammo_detonation_chance_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF010_JC_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4284313520</exterior_id>
+			<name>Juliet Charlie</name>
+		</4284313520>
+		<4285362096>
+			<description>Leak is under control.</description>
+			<price_gold>2</price_gold>
+			<ttc_coef>
+				<flooding_time_coef>0.8</flooding_time_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF009_JY2_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4285362096</exterior_id>
+			<name>Juliet Yankee Bissotwo</name>
+		</4285362096>
+		<4286410672>
+			<description>I can get the fire under control without assistance.</description>
+			<price_gold>8</price_gold>
+			<ttc_coef>
+				<burning_time_coef>0.8</burning_time_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF008_IY_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4286410672</exterior_id>
+			<name>India Yankee</name>
+		</4286410672>
+		<4286508976>
+			<description>Decreases the firing accuracy of the enemy, reduces ship detectability and increases the amount of XP earned by the ship and her Commander.</description>
+			<price_gold>50</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+				<xp_coef>2</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/camouflage/PCEC008_Camo_Eco_Tile.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>camouflage</type>
+			<exterior_id>4286508976</exterior_id>
+			<name>Type 6</name>
+		</4286508976>
+		<4287459248>
+			<description>Damage can be repaired at sea.</description>
+			<price_gold>10</price_gold>
+			<ttc_coef>
+				<health_regeneration_speed>1.2</health_regeneration_speed>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF007_ID_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4287459248</exterior_id>
+			<name>India Delta</name>
+		</4287459248>
+		<4287557552>
+			<description>Decreases the firing accuracy of the enemy and reduces ship detectability.</description>
+			<price_gold>0</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/camouflage/PCEC007_Camo_3_Tile_Double.png</small>
+			</image>
+			<price_credit>22500</price_credit>
+			<type>camouflage</type>
+			<exterior_id>4287557552</exterior_id>
+			<name>Type 5</name>
+		</4287557552>
+		<4288507824>
+			<description>The vessel with which I have been in collision has sunk.</description>
+			<price_gold>1</price_gold>
+			<ttc_coef>
+				<ram_damage_received_coef>0.8</ram_damage_received_coef>
+				<ram_damage_caused_coef>1.5</ram_damage_caused_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF006_HY_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4288507824</exterior_id>
+			<name>Hotel Yankee</name>
+		</4288507824>
+		<4289556400>
+			<description>I am undergoing speed trials.</description>
+			<price_gold>10</price_gold>
+			<ttc_coef>
+				<speed_coef>1.05</speed_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF005_SM_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4289556400</exterior_id>
+			<name>Sierra Mike</name>
+		</4289556400>
+		<4291653552>
+			<description>The well-known signal of the Royal Navy.</description>
+			<price_gold>16</price_gold>
+			<ttc_coef>
+				<xp_coef>1.5</xp_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF003_EqualSpeed_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4291653552</exterior_id>
+			<name>Equal Speed Charlie London</name>
+		</4291653552>
+		<4292800432>
+			<description>Decreases the firing accuracy of the enemy.</description>
+			<price_gold>0</price_gold>
+			<ttc_coef>
+				<enemy_accuracy_coef>1.04</enemy_accuracy_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/camouflage/PCEC002_Camo_2.png</small>
+			</image>
+			<price_credit>7500</price_credit>
+			<type>camouflage</type>
+			<exterior_id>4292800432</exterior_id>
+			<name>Type 2</name>
+		</4292800432>
+		<4293750704>
+			<description>The legendary signal of the Imperial Japanese Navy.</description>
+			<price_gold>8</price_gold>
+			<ttc_coef>
+				<credits_coef>1.2</credits_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/flags/PCEF001_Zulu_SignalFlag.png</small>
+			</image>
+			<price_credit>0</price_credit>
+			<type>flags</type>
+			<exterior_id>4293750704</exterior_id>
+			<name>Zulu</name>
+		</4293750704>
+		<4293849008>
+			<description>Reduces ship detectability.</description>
+			<price_gold>0</price_gold>
+			<ttc_coef>
+				<detect_distance_coef>0.97</detect_distance_coef>
+			</ttc_coef>
+			<image>
+				<small>http://api.worldofwarships.com/static/1.11.0/wows/encyclopedia/camouflage/PCEC001_Camo_1.png</small>
+			</image>
+			<price_credit>7500</price_credit>
+			<type>camouflage</type>
+			<exterior_id>4293849008</exterior_id>
+			<name>Type 1</name>
+		</4293849008>
+	</data>
